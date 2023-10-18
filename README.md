@@ -1,6 +1,6 @@
 # ⚡ Pokémon ⚡
 
-![image](https://github.com/jeca16/projetoAPI-listarPokemon/assets/124156735/2e318520-5f35-452b-9219-14fa6a8c94e9)
+![image](https://github.com/jeca16/projetoAPI-listarPokemon/assets/124156735/45f0af28-0ffd-4e79-a019-7f8d7bc1c161)
 
 
 # Sobre o projeto 📖:
